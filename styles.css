@@ -1,0 +1,19 @@
+div {
+    border: 1px solid black;
+}
+
+.row:nth-child(2) > div:nth-child(2) {
+    border-style: dotted;
+}
+
+.bg-custom1 {
+    background-color: lightblue;
+}
+
+.bg-custom2 {
+    background-color: lightgreen;
+}
+
+.bg-custom3 {
+    background-color: lightcoral;
+}
